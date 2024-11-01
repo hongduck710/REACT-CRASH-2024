@@ -85,18 +85,18 @@
       }
     },
     {
-      "title": "컴미월드 구인",
+      "title": "컴미 ",
       "type": "",
-      "location": "서울",
-      "description": "안녕? 난 컴미야",
-      "salary": "$100K - 125K",
+      "location": "슈퍼컴나라",
+      "description": "안녕?",
+      "salary": "$50K - 60K",
       "company": {
-        "name": "컴미월드",
-        "description": "ㅇㅇㅇ",
-        "contactEmail": "commi1234@gmail.com",
-        "contactPhone": "1234-1234-1234"
+        "name": "슈퍼컴회사",
+        "description": "안녕? 컴미회사야",
+        "contactEmail": "commi@gmail.com",
+        "contactPhone": "2312312"
       },
-      "id": "15W-7ee"
+      "id": "bwDA-To"
     }
   ]
 }
