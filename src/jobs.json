@@ -85,18 +85,18 @@
       }
     },
     {
-      "title": "컴미 ",
+      "id": "bwDA-To",
+      "title": "컴미 🌷🌷🌷🌷",
       "type": "",
-      "location": "슈퍼컴나라",
-      "description": "안녕?",
-      "salary": "$50K - 60K",
+      "location": "슈퍼컴나라🎄🎄🎄🎄🎄",
+      "description": "안녕? 드디어 수정 부분 성공!!!!!!!!!",
+      "salary": "$90K - 100K",
       "company": {
-        "name": "슈퍼컴회사",
-        "description": "안녕? 컴미회사야",
+        "name": "슈퍼컴회사🌞🌞🌞🌞🌞",
+        "description": "안녕? 컴미회사야🌈🌈🌈🌈🌈",
         "contactEmail": "commi@gmail.com",
-        "contactPhone": "2312312"
-      },
-      "id": "bwDA-To"
+        "contactPhone": "20241111"
+      }
     }
   ]
 }
